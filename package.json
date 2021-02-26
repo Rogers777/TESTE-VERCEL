@@ -1,0 +1,25 @@
+{
+  "name": "TESTE-VERCEL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogers777/TESTE-VERCEL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rogers777/TESTE-VERCEL/issues"
+  },
+  "homepage": "https://github.com/Rogers777/TESTE-VERCEL#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
