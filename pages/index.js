@@ -1,6 +1,10 @@
+import {useState } from 'react' ;
+
 function Home(){
 
-    return <div>Rogers 3 </div>
-
+    return <div> Oi tudo bem?</div>
+    
+    
+    
 }
 export default Home
